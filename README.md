@@ -18,7 +18,7 @@ My goal is to apply my research skills to software testing and gain hands-on exp
 I am confident that my experience as a chemical engineering student has prepared me with the necessary skills to excel in software testing. I am excited to explore this new career path and look forward to growing in the field of software engineering.
 
 ## Resume
-You can download my Resume as [a PDF from my Google Drive](https://drive.google.com/file/d/1E_YaLP8OjwoC39xUhhl3Te51RycihHXo/view?usp=sharing).
+You can download my Resume as [a PDF from my Google Drive](https://drive.google.com/file/d/1T7jPkXoXiqW5oKjzu85w2xVHzaekbTxI/view).
 
 ## Skills
 
