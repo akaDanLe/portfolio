@@ -12,10 +12,7 @@
 
 Hi there! My name is Dan Le and I recently graduated with a Bachelor's degree in Chemical Engineering from the University of California, Santa Barbara. As a chemical engineering student, I have developed a strong attention to detail, analytical skills, and structured approach to problem-solving. I have gained extensive experience in computational physical chemistry and modeling of chemical reactions. Additionally, I possess an outgoing personality which allows me to easily communicate and collaborate with others.
 
-Although I have minimal software experience, I am eager to transition into the field of software engineering and explore my passion for problem-solving and analytical thinking. I am currently studying various techniques and tools related to software testing by taking online courses and testing web applications created for learning purposes.
-
-My goal is to apply my research skills to software testing and gain hands-on experience. In the long term, I aspire to become a mid-level software tester within the next two years.
-I am confident that my experience as a chemical engineering student has prepared me with the necessary skills to excel in software testing. I am excited to explore this new career path and look forward to growing in the field of software engineering.
+I am eager to transition into the field of software engineering and explore my passion for problem-solving and analytical thinking. My goal is to apply my research skills to software testing and gain hands-on experience. I am confident that my experience as a chemical engineering student has prepared me with the necessary skills to excel in software. I am excited to explore this new career path and look forward to growing in the field of software engineering.
 
 ## Resume
 You can download my Resume as [a PDF from my Google Drive](https://drive.google.com/file/d/1T7jPkXoXiqW5oKjzu85w2xVHzaekbTxI/view).
