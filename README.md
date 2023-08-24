@@ -7,6 +7,7 @@
 - [Examples of my work](#examples-of-my-work)
   * [Implementing mpi4py for Computational Research](#implementing-mpi4py-for-computational-research)
   * [Styrene Design Project](#styrene-design-project)
+  * [Static Website Portfolio](#static-website-portfolio)
 
 ## About me
 
@@ -16,6 +17,21 @@ I am eager to transition into the field of software engineering and explore my p
 
 ## Resume
 You can download my Resume as [a PDF from my Google Drive](https://drive.google.com/file/d/1T7jPkXoXiqW5oKjzu85w2xVHzaekbTxI/view).
+
+## Examples of my work
+
+### Implementing mpi4py for Computational Research
+
+* [Poster](https://drive.google.com/file/d/1GNedecxUj-Rh-OOZeycpXeV5UTXl_Zoq/view?usp=sharing) presented at the research synopsium.
+* [Presentation](https://drive.google.com/file/d/1D1C-8tJAZq0V58k2mFE2-3J2iz1oi4v9/view?usp=sharing) shared to fellow research peers.
+
+### Styrene Design Project
+
+* [Final design report](https://drive.google.com/file/d/1HdxdgUH0AbYOJ2nGsFa7ihxLOkQssHjM/view?usp=sharing) for the senior design project.
+
+### Static Website Portfolio
+* Static website [here](http://yunglay-site-bucket.s3-website-us-east-1.amazonaws.com)
+* Used Amazon S3 bucket to host a personal portfolio website showcasing projects and skills.
 
 ## Skills
 
@@ -61,14 +77,3 @@ __Design of Chemical Processes__
 *in-person course at UCSB*  
 Applications of chemical engineering principles to reactor and plant design. Conceptual design of chemical processes. Flowsheeting methods. Engineering cost principles and economic aspects.
 
-
-## Examples of my work
-
-### Implementing mpi4py for Computational Research
-
-* [Poster](https://drive.google.com/file/d/1GNedecxUj-Rh-OOZeycpXeV5UTXl_Zoq/view?usp=sharing) presented at the research synopsium.
-* [Presentation](https://drive.google.com/file/d/1D1C-8tJAZq0V58k2mFE2-3J2iz1oi4v9/view?usp=sharing) shared to fellow research peers.
-
-### Styrene Design Project
-
-* [Final design report](https://drive.google.com/file/d/1HdxdgUH0AbYOJ2nGsFa7ihxLOkQssHjM/view?usp=sharing) for the senior design project.
